@@ -16,7 +16,7 @@ describe('Game tests:', function() {
     });
 
     it('should have root entity', function() {
-      expect(game._entities._name).to.be.equal('Root');
+      expect(game._entities.name).to.be.equal('Root');
     });
   });
 });

@@ -13,8 +13,13 @@
   ],
   "author": "Denis Zatsepin <denis@zatsepin.spb.ru>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deniszatsepin/rotor-game"
+  },
   "dependencies": {
-    "lodash": "^2.4.1"
+    "lodash": "^2.4.1",
+    "rotor-entity": "*"
   },
   "devDependencies": {
     "chai": "^1.10.0",
