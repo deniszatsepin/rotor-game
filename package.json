@@ -19,7 +19,8 @@
   },
   "dependencies": {
     "lodash": "^2.4.1",
-    "rotor-entity": "*"
+    "rotor-entity": "*",
+    "rotor-service-manager": "0.0.1"
   },
   "devDependencies": {
     "chai": "^1.10.0",
