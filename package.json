@@ -20,8 +20,8 @@
   "dependencies": {
     "canvas-orbit-camera": "^1.0.1",
     "lodash": "^2.4.1",
-    "rotor-entity": "*",
-    "rotor-service-manager": "0.0.1"
+    "rotor-entity": "latest",
+    "rotor-service-manager": "latest"
   },
   "devDependencies": {
     "chai": "^1.10.0",
